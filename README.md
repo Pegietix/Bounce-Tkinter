@@ -24,6 +24,7 @@ Awesome arcade game
 ## General info
 I created this game in order to utilize freshly learned Python GUI creating skills and threading.
 
+
 ### Thoughts
 At first this was supposed to be small, 100-ish line, single-file project, but turned out a little bigger than expected.
 I should have written it with that in mind from the beginning, the final code would be much clearer.
@@ -66,10 +67,14 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 ------
 
-# General Info
- __Bounce!__ 
-Awesome arcade game
+
+# __Bounce!__ 
+#### Awesome arcade game
 > 14.05.2018
+
+## General Info
+I created this game in order to utilize freshly learned Python GUI creating skills and threading.
+For the graphical user interface I used TKinter module and canvas.
 
 ## Getting Started
 
@@ -89,8 +94,12 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 
 
 ## __Technologies__
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> __Python 3.6.5__  
-    * TKinter module
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> __Python__ 3.6.5 
+     ###### Modules used
+     * TKinter
+     * random
+     * time
+     * threading
 
 
 
@@ -105,8 +114,9 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
     * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1280px-New_Logo_Gmail.svg.png" height="15px"> piotr.goldys9@gmail.com</a>
     
 
-## Acknowledgments
+### Thoughts
+At first this was supposed to be small, 100-ish line, single-file project, but turned out a little bigger than expected.
+I should have written it with that in mind from the beginning, the final code would be much clearer.
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+I wrote this project before I read "Clean Code" book - now I would write it in much more clean and intuitive way, 
+especially when it comes to naming functions.
