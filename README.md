@@ -75,13 +75,13 @@ Awesome arcade game
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### __Prerequisites__
+##### __Prerequisites__
 
 Python 3.6.5 with TKinter module
 
 
 
-### __Installation__
+###### __Installation__
 
 Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a>
 . Be sure to include TKinter module during installation process
@@ -98,7 +98,7 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 
 ## Authors
 
-* **Piotr Goldys** - *Initial work* - [Github](https://github.com/Pegietix), [Facebook](https://facebook.com/Pitold)
+* **Piotr Goldys** - [Github](https://github.com/Pegietix), <img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png" alt="drawing" width="15px"/>[Facebook](https://facebook.com/Pitold), [Linkedin](https://www.linkedin.com/in/piotr-goldys/). Feel free to contact me!
 
 
 
