@@ -67,7 +67,7 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 ------
 
 # Project Name
-> Bounce! <
+ Markup :  __Strong text__ Bounce! 
 
 Awesome arcade game
 
