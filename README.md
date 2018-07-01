@@ -72,7 +72,7 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 #### Awesome arcade game
 > 14.05.2018
 
-## General Info
+## __General Info__
    I created this game in order to utilize freshly learned Python GUI creating skills and threading.  
 For the graphical user interface I used TKinter module and canvas.
 
@@ -94,7 +94,7 @@ For the graphical user interface I used TKinter module and canvas.
 
 
 
-#### Instructions
+#### __Instructions__
 
    1. Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a>
 . Be sure to include TKinter module during installation process.
@@ -104,7 +104,7 @@ For the graphical user interface I used TKinter module and canvas.
 
 
 
-## Authors
+## __Authors__
 
 * **Piotr Goldys** 
     * <a href="https://github.com/Pegietix"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" height="15px"> GitHub</a>
