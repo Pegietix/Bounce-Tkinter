@@ -1,23 +1,18 @@
 <table class="fixed">
-  <col width="200px" />
-    <col width="1000px" />
+  
   <tr>
-    <th>
+    <th width="50%">
       
 # __Bounce!__                      
  14.05.2018
   </th>
-  <th>
+  <th width="50%">
   <img src="demo_gif.gif" height="350px">
   </th>
   </tr>
  </table>
   
-<style>
-  table {
-    border-spacing: 150px;
-}
-</style>
+
 # __Bounce!__ 
 #### Awesome arcade game
 > 14.05.2018
