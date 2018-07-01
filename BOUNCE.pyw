@@ -113,7 +113,7 @@ def show_help(event):
     help_window.wm_resizable(0, 0)
     help_window.wm_attributes("-topmost", 1)
     canvas2 = Canvas(help_window, width=500, height=365, highlightthickness=5,
-                     highlightbackground='green')
+                     highlightbackground='green', background='white')
     canvas2.pack()
     canvas2.create_text(20, 20, anchor=NW, fill='black', font=('Courier', 11),
                         width=500,

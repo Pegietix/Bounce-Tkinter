@@ -7,7 +7,7 @@ tk.title("Bounce!")
 tk.wm_resizable(0, 0)
 tk.wm_attributes("-topmost", 1)
 canvas = Canvas(tk, width=1000, height=700, highlightthickness=5,
-                highlightbackground='green')
+                highlightbackground='green', background='white')
 canvas.pack()
 
 # Divide the window by drawing rectangle + draw dark-red floor
