@@ -98,9 +98,13 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 
 ## Authors
 
-* **Piotr Goldys** - [Github](https://github.com/Pegietix), <a href="https://facebook.com/Pitold">
-  <img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png" alt="Facebook" width="15px">
-</a>[Facebook](https://facebook.com/Pitold), [Linkedin](https://www.linkedin.com/in/piotr-goldys/). Feel free to contact me!
+* **Piotr Goldys** - <a href="https://facebook.com/Pitold">
+  <img src="https://www.famouslogos.us/images/facebook-logo.jpg" alt="Facebook" width="25px">
+ <a href="https://github.com/Pegietix">
+  <img src="https://clipart.info/images/ccovers/1499794873github-logo-png.png" alt="GitHub" height="25px">
+<a href="https://www.linkedin.com/in/piotr-goldys/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="Linkedin" height="25px"> Feel free to contact me!
+
 
 
 
