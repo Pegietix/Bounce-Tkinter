@@ -1,6 +1,4 @@
 
-<div class="row">
-  <div class="column">
 
 
 <div class="row">
