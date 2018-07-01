@@ -11,9 +11,11 @@
   </tr>
  </table>
   
-<style>table {
-    border-spacing: 5px;
-}</style>
+<style>
+  table {
+    border-spacing: 150px;
+}
+</style>
 # __Bounce!__ 
 #### Awesome arcade game
 > 14.05.2018
