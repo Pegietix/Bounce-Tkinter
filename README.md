@@ -1,19 +1,16 @@
-
-
-
-<div class="row">
-  
-  <div class="column">
-  
-  ngfnx
-    
-  </div>
-    
-  <div class="column">
-  
-  gfxb
-  
-  </div>
+<table style="width:100%">
+  <tr>
+    <th>
+      
+# __Bounce!__ 
+#### Awesome arcade game
+> 14.05.2018
+  </th>
+  <th>
+  <img src="demo_gif.gif" height="250px">
+  </th>
+  </tr>
+ </table>
   
 </div>
 # __Bounce!__ 
