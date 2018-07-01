@@ -79,7 +79,7 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 For the graphical user interface I used TKinter module and canvas.
 
 ### Media
-<img src="demo_gif.gif">
+<img src="demo_gif.gif" height="250px">
 
 ### __Technologies__
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> __Python__ 3.6.5 
