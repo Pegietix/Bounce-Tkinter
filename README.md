@@ -1,4 +1,4 @@
-<table style="width:1000" cellpadding="100">
+<table style="width:1000" cellspacing="100">
   <tr>
     <th>
       
