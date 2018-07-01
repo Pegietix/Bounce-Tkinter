@@ -66,30 +66,30 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 ------
 
-# Project Name
+# General Info
  __Bounce!__ 
-
 Awesome arcade game
+> 14.05.2018
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### __Prerequisites__
 
 Python 3.6.5 with TKinter module
 
 
 
-### Installation
+### __Installation__
 
 Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a>
 . Be sure to include TKinter module during installation process
 
 
 
-## Technologies
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="13px"/> Python 3.6.5   
+## __Technologies__
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="15px"/> Python 3.6.5   
     * TKinter module
 
 
@@ -98,9 +98,8 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Piotr Goldys** - *Initial work* - [Github](https://github.com/Pegietix), [Facebook](https://facebook.com/Pitold)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 
 
