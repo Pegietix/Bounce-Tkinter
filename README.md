@@ -6,7 +6,7 @@
 #### Awesome arcade game
 > 14.05.2018
 
-</div>
+  </div>
   <div class="column">
   
   <img src="demo_gif.gif" height="250px">
