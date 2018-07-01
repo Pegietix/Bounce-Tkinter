@@ -99,7 +99,7 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 ## Authors
 
 * **Piotr Goldys** 
-    * <a href="https://github.com/Pegietix"><img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png">GitHub</a>
+    * <a href="https://github.com/Pegietix"><img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" height="25px">GitHub</a>
     * <a href="https://facebook.com/Pitold">Facebook</a>
     * <a href="https://www.linkedin.com/in/piotr-goldys/">LinkedIn</a> 
     Feel free to contact me!
