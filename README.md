@@ -88,7 +88,7 @@ Download and install [Python 3.6.5](https://www.python.org/downloads/). Be sure 
 
 
 ## Technologies
-* Python 3.6.5   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="15px"/>
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="12px"/> Python 3.6.5   
     * TKinter module - GUI
 
 
