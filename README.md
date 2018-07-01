@@ -1,5 +1,10 @@
 
-
+<div class="row">
+  <div class="column"># __Bounce!__ 
+#### Awesome arcade game
+> 14.05.2018</div>
+  <div class="column"><img src="demo_gif.gif" height="250px"></div>
+</div>
 # __Bounce!__ 
 #### Awesome arcade game
 > 14.05.2018
