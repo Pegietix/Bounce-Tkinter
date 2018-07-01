@@ -6,7 +6,7 @@
  14.05.2018
   </th>
   <th>
-  <img src="demo_gif.gif" height="250px">
+  <img src="demo_gif.gif" height="350px">
   </th>
   </tr>
  </table>
