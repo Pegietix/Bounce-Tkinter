@@ -11,7 +11,9 @@
   </tr>
  </table>
   
-</div>
+<style>table {
+    border-spacing: 5px;
+}</style>
 # __Bounce!__ 
 #### Awesome arcade game
 > 14.05.2018
