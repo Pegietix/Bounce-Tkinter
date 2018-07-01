@@ -22,7 +22,7 @@ especially when it comes to naming functions.
 
 
 ## Table of contents
-* [General info](#general-info)
+*** [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
