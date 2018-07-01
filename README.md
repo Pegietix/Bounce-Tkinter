@@ -99,7 +99,7 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 ## Authors
 
 * **Piotr Goldys** - [Github](https://github.com/Pegietix), <a href="https://facebook.com/Pitold">
-  <img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png" alt="Facebook" width="15px"">
+  <img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png" alt="Facebook" width="15px">
 </a>[Facebook](https://facebook.com/Pitold), [Linkedin](https://www.linkedin.com/in/piotr-goldys/). Feel free to contact me!
 
 
