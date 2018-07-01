@@ -89,7 +89,7 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 
 
 ## __Technologies__
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="15px"/> Python 3.6.5   
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> Python 3.6.5   
     * TKinter module
 
 
@@ -98,7 +98,9 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 
 ## Authors
 
-* **Piotr Goldys** - [Github](https://github.com/Pegietix), <img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png" alt="drawing" width="15px"/>[Facebook](https://facebook.com/Pitold), [Linkedin](https://www.linkedin.com/in/piotr-goldys/). Feel free to contact me!
+* **Piotr Goldys** - [Github](https://github.com/Pegietix), <a href="https://facebook.com/Pitold">
+  <img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png" alt="Facebook" width="15px"">
+</a>[Facebook](https://facebook.com/Pitold), [Linkedin](https://www.linkedin.com/in/piotr-goldys/). Feel free to contact me!
 
 
 
