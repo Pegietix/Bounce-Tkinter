@@ -15,7 +15,7 @@ especially when it comes to naming functions.
 
 
 # Project Name
-> Here goes your awesome project description!
+> BOUNCE!
 
 ## Table of contents
 * [General info](#general-info)
