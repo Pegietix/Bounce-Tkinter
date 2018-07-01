@@ -1,4 +1,4 @@
-<table style="width:1000px">
+<table style="width:1000">
   <tr>
     <th>
       
