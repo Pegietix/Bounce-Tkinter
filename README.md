@@ -1,4 +1,6 @@
-<table style="width:1000" cellspacing="100">
+<table class="fixed">
+  <col width="200px" />
+    <col width="1000px" />
   <tr>
     <th>
       
