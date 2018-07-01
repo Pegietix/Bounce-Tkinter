@@ -99,9 +99,9 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 ## Authors
 
 * **Piotr Goldys** 
-    *<a href="https://github.com/Pegietix">GitHub</a>
-    *<a href="https://facebook.com/Pitold">Facebook</a>
-    *<a href="https://www.linkedin.com/in/piotr-goldys/">LinkedIn</a> 
+    * <a href="https://github.com/Pegietix">GitHub</a>
+    * <a href="https://facebook.com/Pitold">Facebook</a>
+    * <a href="https://www.linkedin.com/in/piotr-goldys/">LinkedIn</a> 
     Feel free to contact me!
 
 
