@@ -73,34 +73,32 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 > 14.05.2018
 
 ## General Info
-     I created this game in order to utilize freshly learned Python GUI creating skills and threading.
+   I created this game in order to utilize freshly learned Python GUI creating skills and threading.
 For the graphical user interface I used TKinter module and canvas.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-##### __Prerequisites__
-
-Python 3.6.5 with TKinter module
-
-
-
-###### __Installation__
-
-Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a>
-. Be sure to include TKinter module during installation process
-
-
-
-## __Technologies__
+### __Technologies__
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> __Python__ 3.6.5 
      ###### Modules used
      * TKinter
      * random
      * time
      * threading
-     
+
+### Getting Started
+
+   These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+#### __Prerequisites__
+
+Python 3.6.5 with TKinter module
+
+
+
+#### __Setup__
+
+   1. Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a>
+. Be sure to include TKinter module during installation process.
+   2. Download or clone repository and run BOUNCE.pyw
 
 
 
@@ -116,8 +114,8 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
     
 
 ### Thoughts
-At first this was supposed to be small, 100-ish line, single-file project, but turned out a little bigger than expected.
+   At first this was supposed to be small, 100-ish line, single-file project, but turned out a little bigger than expected.
 I should have written it with that in mind from the beginning, the final code would be much clearer.
 
-I wrote this project before I read "Clean Code" book - now I would write it in much more clean and intuitive way, 
+   I wrote this project before I read "Clean Code" book - now I would write it in much more clean and intuitive way, 
 especially when it comes to naming functions.
