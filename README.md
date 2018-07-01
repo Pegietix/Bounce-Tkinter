@@ -1,12 +1,12 @@
 <table class="fixed">
   
   <tr>
-    <th width="50%">
+    <th width="40%">
       
 # __Bounce!__                      
  14.05.2018
   </th>
-  <th width="50%">
+  <th width="60%">
   <img src="demo_gif.gif" height="350px">
   </th>
   </tr>
