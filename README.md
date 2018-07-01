@@ -99,10 +99,10 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 ## Authors
 
 * **Piotr Goldys** 
-    * <a href="https://github.com/Pegietix"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" height="18px">GitHub</a>
-    * <a href="https://facebook.com/Pitold"><img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png" height="18px"> Facebook</a>
-    * <a href="https://www.linkedin.com/in/piotr-goldys/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW0m7yXW45tMa1MmBfOm904CyHUrPYTK8BZufKdA5O4NtvvSui" height="18px"> LinkedIn</a>
-    * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1280px-New_Logo_Gmail.svg.png" height="18px"> piotr.goldys9@gmail.com</a>
+    * <a href="https://github.com/Pegietix"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" height="15px"> GitHub</a>
+    * <a href="https://facebook.com/Pitold"><img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png" height="15px"> Facebook</a>
+    * <a href="https://www.linkedin.com/in/piotr-goldys/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW0m7yXW45tMa1MmBfOm904CyHUrPYTK8BZufKdA5O4NtvvSui" height="15px"> LinkedIn</a>
+    * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1280px-New_Logo_Gmail.svg.png" height="15px"> piotr.goldys9@gmail.com</a>
     
 
 ## Acknowledgments
