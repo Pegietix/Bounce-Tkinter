@@ -14,8 +14,8 @@ I wrote this project before I read "Clean Code" book - now I would write it in m
 especially when it comes to naming functions.
 
 
-# Project Name
-> BOUNCE!
+# BOUNCE!
+> 14.05.2018
 
 ## Table of contents
 * [General info](#general-info)
