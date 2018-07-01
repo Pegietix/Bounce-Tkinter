@@ -89,7 +89,7 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 
 
 ## __Technologies__
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> Python 3.6.5   
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> __Python 3.6.5__  
     * TKinter module
 
 
