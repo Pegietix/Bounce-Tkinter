@@ -1,10 +1,9 @@
-<table style="width:100%">
+<table style="width:150%">
   <tr>
     <th>
       
 # __Bounce!__ 
-#### Awesome arcade game
-> 14.05.2018
+ 14.05.2018
   </th>
   <th>
   <img src="demo_gif.gif" height="250px">
