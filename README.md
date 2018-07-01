@@ -32,7 +32,11 @@ especially when it comes to naming functions.
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+I created this game in order to utilize freshly learned Python GUI creating skills and threading.
+
+### Thoughts
+At first this was supposed to be small, 100-ish line, single-file project, but turned out a little bigger than expected.
+I should have written it with that in mind from the beginning, the final code would be much clearer.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
