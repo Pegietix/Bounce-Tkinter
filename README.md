@@ -73,7 +73,7 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 > 14.05.2018
 
 ## General Info
-I created this game in order to utilize freshly learned Python GUI creating skills and threading.
+     I created this game in order to utilize freshly learned Python GUI creating skills and threading.
 For the graphical user interface I used TKinter module and canvas.
 
 ## Getting Started
@@ -96,7 +96,10 @@ Download and install <a target="_blank" rel="noopener noreferrer" href="https://
 ## __Technologies__
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="drawing" width="20px"/> __Python__ 3.6.5 
      ###### Modules used
-     * TKinter, random, time, threading
+     * TKinter
+     * random
+     * time
+     * threading
      
 
 
