@@ -83,7 +83,7 @@ Python 3.6.5 with TKinter module
 
 ### Installation
 
-Download and install <a target="_blank" href="https://www.python.org/downloads/">Python 3.6.5</a>
+Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a>
 . Be sure to include TKinter module during installation process
 
 
