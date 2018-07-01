@@ -2,11 +2,19 @@
 
 
 <div class="row">
-  <div class="column">ngfnx
+  
+  <div class="column">
+  
+  ngfnx
     
-    </div>
-  <div class="column">gfxb
-    </div>
+  </div>
+    
+  <div class="column">
+  
+  gfxb
+  
+  </div>
+  
 </div>
 # __Bounce!__ 
 #### Awesome arcade game
