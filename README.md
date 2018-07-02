@@ -31,7 +31,7 @@ For the graphical user interface I used TKinter module and canvas.
 
 ### __Prerequisites__
 
-* Python 3.6.5 with TKinter module
+* <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a> with TKinter module
 
 
 
