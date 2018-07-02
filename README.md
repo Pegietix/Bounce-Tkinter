@@ -39,7 +39,7 @@ For the graphical user interface I used TKinter module and canvas.
 
    1. Download and install <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/downloads/">Python 3.6.5</a>
 . Be sure to include TKinter module during installation process.
-   2. Download or clone repository and run BOUNCE.pyw
+   2. Download or clone the repository and run BOUNCE.pyw
 
 
 
