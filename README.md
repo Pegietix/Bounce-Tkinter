@@ -14,7 +14,8 @@
   
 
 ## __General Info__
-   I created this game in order to utilize freshly learned Python GUI creating skills and threading.  
+   Bounce game with levels, slow motion effects,etc.  
+I created this game in order to utilize freshly learned Python GUI creating skills and threading.  
 For the graphical user interface I used TKinter module and canvas.
 
 ### __Technologies__
