@@ -14,7 +14,7 @@
   
 
 ## __General Info__
-&nbsp;&nbsp;&nbsp;&nbsp;Bounce game with levels, slow motion effects,etc.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bounce game with levels, slow motion effects,etc.  
 I created this game in order to utilize freshly learned Python GUI creating skills and threading.  
 For the graphical user interface I used TKinter module and canvas.
 
@@ -28,7 +28,7 @@ For the graphical user interface I used TKinter module and canvas.
 
 ## __Setup__
 
-   These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### __Prerequisites__
 
@@ -56,8 +56,8 @@ For the graphical user interface I used TKinter module and canvas.
     
 
 ### Thoughts
-   At first this was supposed to be small, 100-ish line, single-file project, but turned out a little bigger than expected.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At first this was supposed to be small, 100-ish line, single-file project, but turned out a little bigger than expected.
 I should have written it with that in mind from the beginning, the final code would be much clearer.
 
-   I wrote this project before I read "Clean Code" book - now I would write it in much more clean and intuitive way, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I wrote this project before I read "Clean Code" book - now I would write it in much more clean and intuitive way, 
 especially when it comes to naming functions.
